@@ -67,3 +67,7 @@ To demonstrate the project's success and progress, consider tracking the followi
 5.  Experiment with different model parameters and data preprocessing techniques to improve performance.
 
 
+#OUTPUT:
+![image](https://github.com/user-attachments/assets/f90451e1-f47b-4c15-a3c6-b7aea11e4e73)
+
+
